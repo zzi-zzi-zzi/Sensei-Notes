@@ -16,4 +16,4 @@ Missing functionality for Quests:
 Attempting to generate path to X:-12612 Y:36964 Z:2392 from X:-12796 Y:36964 Z:2336.65
 startzone_p
  ```
- - [ ] Hotspot MapId is currently an Int
+ - [x] Hotspot MapId is currently an Int
