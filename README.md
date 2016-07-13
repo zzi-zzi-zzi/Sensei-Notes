@@ -13,6 +13,7 @@ Missing functionality for Quests:
  
  -  [ ] `Start location tile could not be loaded.`
  ```
- <TalkTo QuestId="221" QuestStep="1" QuestName="Chapter 1: Awakenings" CreatureId="10240" X="-12704" Y="37060" Z="2332" MapId="startzone_p" />
+Attempting to generate path to X:-12612 Y:36964 Z:2392 from X:-12796 Y:36964 Z:2336.65
+startzone_p
  ```
  - [ ] Hotspot MapId is currently an Int
