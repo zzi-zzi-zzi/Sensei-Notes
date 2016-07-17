@@ -11,3 +11,8 @@ Missing functionality for Quests:
    -  [ ] Cutscenes currently break tags. (have to stop and start the bot to get it moving again) 
 
  -  [ ] Bot has started forggetting the selected routine and enabled plugins
+
+ -  [ ] Bot has problems with doors (cuts short)
+ -  [ ] Bot has problems with some objects on the ground (cuts too close)
+ -  [ ] Bot has navigation problems in stargin zone: (doesn't take the stairs) 
+     ![starting zone problems](pathing_stargin_zone.jpg)
