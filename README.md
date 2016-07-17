@@ -29,5 +29,5 @@
 
  -  [ ] Bot has problems with doors (cuts short)
  -  [ ] Bot has problems with some objects on the ground (cuts too close)
- -  [ ] Bot has navigation problems in stargin zone: (doesn't take the stairs) 
+ -  [ ] Bot has navigation problems in tarting zone: (doesn't take the stairs) 
      ![starting zone problems](pathing_stargin_zone.jpg)
