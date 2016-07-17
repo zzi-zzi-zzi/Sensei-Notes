@@ -1,6 +1,6 @@
 # Sensei-Notes
 
-Missing functionality for Quests:
+## Missing functionality for Quests:
 (requires some work by the sensi master)
  -  [ ] Teleport - Story Quest Required -- can currently be done via UI manipulation. Not sure how accurately this can be done.
  
@@ -10,9 +10,15 @@ Missing functionality for Quests:
  -  [ ] Cutscene Skipping
    -  [ ] Cutscenes currently break tags. (have to stop and start the bot to get it moving again) 
  
+## Profile & Tag Issues:
+ -  [ ] UseItem currently throws a NullReferenceException. See log: https://gist.github.com/zzi-zzi-zzi/2355ad04aa57acb2e6a9167a77843b12 
  -  [ ] If an exception is thrown by a profile tag during execution the bot continues to execute that tag. continuing to throw exceptions until it crashes. 
- 
+
+## Bot Issues:
+
  -  [ ] Bot has started forgetting the selected routine and enabled plugins
+
+## Navigation issues:
 
  -  [ ] Bot has problems with doors (cuts short)
  -  [ ] Bot has problems with some objects on the ground (cuts too close)
