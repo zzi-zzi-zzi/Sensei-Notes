@@ -9,8 +9,10 @@ Missing functionality for Quests:
 
  -  [ ] Cutscene Skipping
    -  [ ] Cutscenes currently break tags. (have to stop and start the bot to get it moving again) 
-
- -  [ ] Bot has started forggetting the selected routine and enabled plugins
+ 
+ -  [ ] If an exception is thrown by a profile tag during execution the bot continues to execute that tag. continuing to throw exceptions until it crashes. 
+ 
+ -  [ ] Bot has started forgetting the selected routine and enabled plugins
 
  -  [ ] Bot has problems with doors (cuts short)
  -  [ ] Bot has problems with some objects on the ground (cuts too close)
