@@ -10,3 +10,4 @@ Missing functionality for Quests:
  -  [ ] Cutscene Skipping
    -  [ ] Cutscenes currently break tags. (have to stop and start the bot to get it moving again) 
 
+ -  [ ] Bot has started forggetting the selected routine and enabled plugins
