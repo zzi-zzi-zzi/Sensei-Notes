@@ -11,6 +11,8 @@
    -  [ ] Cutscenes currently break tags. (have to stop and start the bot to get it moving again) 
  
 ## Profile & Tag Issues:
+ -  [ ] ReadLetter doesn't work. (Quest #227 was the test subject)
+
  -  [ ] UseItem currently throws a NullReferenceException. See log: https://gist.github.com/zzi-zzi-zzi/2355ad04aa57acb2e6a9167a77843b12 
  -  [ ] If an exception is thrown by a profile tag during execution the bot continues to execute that tag. continuing to throw exceptions until it crashes. 
  -  [ ] MoveTo doesn't work all the time? (could be related to the navigation issues)
