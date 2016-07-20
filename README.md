@@ -7,7 +7,7 @@
  -  [x] Fuse Items - Story Quest Required -- Currently can be done via UI manipulation. 
    -  [ ] Would be nice to be able to get information about the Item Selection Windows to have better control over whats going to be used
 
- -  [ ] Cutscene Skipping
+ -  [x] Cutscene Skipping
    -  [ ] Cutscenes currently break tags. (have to stop and start the bot to get it moving again) 
  
 ## Profile & Tag Issues:
@@ -31,3 +31,6 @@
  -  [ ] Bot has problems with some objects on the ground (cuts too close)
  -  [ ] Bot has navigation problems in tarting zone: (doesn't take the stairs) 
      ![starting zone problems](pathing_stargin_zone.jpg)
+ 
+ - [ ] Bot likes to walk off clifs.
+ - [ ] Bot doesn't seem to understand Portals even if they are on the same map.
